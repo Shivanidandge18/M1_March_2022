@@ -1,4 +1,4 @@
-<h1> # Certificates </h1>
+# <h1>Certificates </h1>
 <h5> 
   # 1) Sololearn<br>
 # 2) NDG Linux<br>
