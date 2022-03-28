@@ -72,3 +72,4 @@ The LMS leaks outward into new spaces, spaces which it didn’t inhabit before, 
 # <H3>Threats:</H3>
 Libraries now send and retrieve data from databases to help better manage inventory and the like, but some libraries don’t have the right data encryption practices in place. This can often lead to lost data and sometimes, the data easily obtainable by criminals.
 
+![2022-03-28 (1)](https://user-images.githubusercontent.com/94896509/160357773-cfba5a55-84ea-4855-8449-fd459e984139.png)
